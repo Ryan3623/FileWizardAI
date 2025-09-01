@@ -1,1 +1,1 @@
-git clone <repo-url>`
+Python app.py
